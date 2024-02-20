@@ -1,0 +1,71 @@
+[
+    {
+        "username": "Avigail Grinboim",
+        "password": "nbvk$147",
+        "role": "manager",
+        "id": "aaa3488f-64fb-4d36-8d98-5d483e7bce7a"
+    },
+    
+    {
+        "username": "יעל לוי",
+        "password": "61569",
+        "email": "s@gmail.com",
+        "phone": "0504109685",
+        "id": "3ac75cff-57f7-41f1-aebc-795a52f23de4"
+    },
+    {
+        "username": "שרה לוי",
+        "password": "61569",
+        "email": "s@gmail.com",
+        "phone": "0504109685",
+        "id": "7a54ed9a-63b7-4556-aee4-9c7319f125de"
+    },
+    {
+        "username": "מיכל פוליטנסקי",
+        "password": "Sg1zU)G%Ayf4",
+        "phone": "0556725816",
+        "id": "68566a94-6bb9-4f0e-8a79-6277e7a3f879"
+    },
+    {
+        "username": "חיה קרשינסקי",
+        "password": "(&p6UK#Ly!r$",
+        "phone": "088520258",
+        "id": "8db21dfb-2ceb-4e64-9856-c1bf6bce7449"
+    },
+    {
+        "username": "דבורי וינרב",
+        "password": "vIv9)k$Nu^^u",
+        "phone": "0527624518",
+        "id": "3ea3485e-80c2-4165-8076-2021ccdbc1db"
+    },
+    {
+        "username": "אביגיל הבר",
+        "password": "(3R#O&cJei3A",
+        "phone": "0525899999",
+        "id": "64a3aced-d3b2-40f1-9825-f88537b05c69"
+    },
+    {
+        "username": "חני עוזר",
+        "password": "L*PWWHZ)4jn@",
+        "phone": "0549876325",
+        "id": "92df0a8a-0113-4e16-a0ea-ded2611e82b8"
+    },
+    {
+        "username": "רותי קפלן",
+        "password": "4!6bNEiez#Jp",
+        "phone": "089744654",
+        "id": "1aea0926-d9f5-4dc4-81ea-d0c47bdfec00"
+    },
+    {
+        "username": "תמר קורלנסקי",
+        "password": "4VZ@KuH27wuj",
+        "phone": "0559632414",
+        "id": "de5932b1-a5b1-4146-a6f8-c19eb0a5f539"
+    },
+    {
+        "username": "שרה קופמן",
+        "password": "1hwsgh9Oe5*m",
+        "phone": "0556972525",
+        "id": "b10f294c-57ac-4e3b-baa4-9c26f6f12b6c"
+    }
+]

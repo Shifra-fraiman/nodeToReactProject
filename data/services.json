@@ -1,0 +1,65 @@
+[
+    {
+        "img": "src/assets/images/chalake.jpg",
+        "cost": "50$",
+        "id": "821fc341-0db9-4ac7-92d9-0a136b1ceba9",
+        "name": "חלאקה",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/newBorn.jpg",
+        "cost": "450 ש''ח ל10 תמונות",
+        "id": "e1f08dd4-9eec-46dc-9877-b559576c959a",
+        "name": "ניו בורן",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3",
+        "duration": "חצי שעה"
+    },
+    {
+        "img": "src/assets/images/smash cake.JPG",
+        "cost": "1000 ",
+        "duration": "3",
+        "id": "4bd92739-08d1-4c0e-8a2a-34e0e82a3e56",
+        "name": "סמאש קייק",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/wedding.jpg",
+        "cost": "10000",
+        "duration": "5 שעות",
+        "id": "6a9ce2df-b0ad-403e-bead-db710fcfc11d",
+        "name": "חתונה",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/batMithva.jpg",
+        "cost": "750 ש\"ח",
+        "duration": "4",
+        "id": "b4c1b09d-2679-42d4-bd73-8d7e12a10b6b",
+        "name": "בת מצווה",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/חוץ.jpg",
+        "cost": "500",
+        "duration": "שעה",
+        "id": "b2715355-2f03-46e9-ae8f-6ce8818496b4",
+        "name": "צילומי חוץ",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/erusin.jpg",
+        "cost": "2000 ₪",
+        "duration": "4 שעות",
+        "id": "5482ea13-51a0-4c1a-80d6-046af38d4c39",
+        "name": "אירוסין",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    },
+    {
+        "img": "src/assets/images/studio.jpg",
+        "cost": "1000",
+        "duration": "שעתיים",
+        "id": "76211762-b431-493f-88d2-2a80ba51d3b5",
+        "name": "צילומי סטודיו",
+        "businessId": "8f571327-fd44-4f0f-b0f9-950082e0ced3"
+    }
+]
